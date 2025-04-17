@@ -29,7 +29,7 @@ Este proyecto es una aplicación web creada con **React + Vite** para visualizar
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/3d-viewer.git
+git clone https://github.com/OliverHugo09/render-3d-obj-react.git
 cd render-3d-obj-react
 
 # 2. Instala las dependencias
